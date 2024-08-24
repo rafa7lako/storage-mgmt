@@ -1,0 +1,15 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #303030;
+	color: white;
+}
+
+main {
+	margin: 2rem auto;
+	text-align: center;
+}
